@@ -11,8 +11,8 @@ more grocery items based on your last grocery shopping trip. A unique feature of
 consistent with the inventory of the store of your choosing. That way you will be able to make all your purchases in one trip!
 
 Brought to you by: 
-alator20
-ikaneris94
-juancuevas92
-kaysierenee
+alator20, 
+ikaneris94, 
+juancuevas92, 
+kaysierenee, 
 yzelisabelsanchez

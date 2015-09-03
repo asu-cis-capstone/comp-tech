@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/comp-tech.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/comp-tech)
 # comp-tech
 repo for team Straight Outta Comp-Tech
 OVERVIEW: 

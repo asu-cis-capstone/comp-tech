@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/comp-tech.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/comp-tech)
 # comp-tech
 repo for team Straight Outta Comp-Tech
-OVERVIEW: 
+#OVERVIEW: 
 
 Welcome to Got Groceries?
 
@@ -16,10 +16,10 @@ Below is a list of features;
   Unique feature of this application
     - Be consistent with the inventory of the store of your choosing
     
-    
+#Team Members    
 Brought to you by: 
-alator20, 
-ikaneris94, 
-juancuevas92, 
-kaysierenee, 
-yzelisabelsanchez
+- alator20
+- ikaneris94
+- juancuevas92 
+- kaysierenee
+- yzelisabelsanchez

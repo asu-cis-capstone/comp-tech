@@ -1,4 +1,4 @@
-@@ -7,14 +7,13 @@ Welcome to Got Groceries?
+Welcome to Got Groceries?
  
  This is the new highly innovated grocery list application called "Got Groceries"
  

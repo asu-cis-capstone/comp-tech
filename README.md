@@ -28,18 +28,18 @@ Welcome to Got Groceries?
  
 #Instructions For Running Locally
 
-Step 1:
+Step 1 (Database configuration):
  - Download SQL Server 2012
  - Create a database for the application title GotGroceries
  - Run the script createGotGroceries.sql (included in the github repository)
  - 
  
-Step 2:
+Step 2 (Solution Download):
  - Download solution from github:  https://github.com/asu-cis-capstone/comp-tech
  - 
 
-Step 3:
- - Run the solution on local machine
+Step 3 (Runtime Build):
+ - Run the solution in Visual Studio 2015 on local machine
  
 #Instructions For Online Access
  - visit http://capstonegotgroceries.azurewebsites.net/

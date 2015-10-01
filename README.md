@@ -31,7 +31,7 @@ Welcome to Got Groceries?
 Step 1 (Database configuration):
  - Download SQL Server 2012
  - Create a database for the application title GotGroceries
- - Run the script createGotGroceries.sql (included in the github repository)
+ - Run the script createGotGroceries.sql (included in the github repository Grocery List Application .zip)
  - 
  
 Step 2 (Solution Download):

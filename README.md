@@ -47,7 +47,7 @@ Step 3 (Runtime Build):
  - Run the solution in Visual Studio 2015 on local machine
  
 #Instructions For Online Access
- - visit http://capstonegotgroceries.azurewebsites.net/
+ - visit http://grocerylistapplication.azurewebsites.net/
 
 
 
@@ -55,7 +55,7 @@ Step 3 (Runtime Build):
 
 
 #Connection String Example
-<add name="Got Groceries" 
+add name="Got Groceries" 
    connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\GotGroceries.mdf;Integrated Security=True" 
    providerName="System.Data.SqlClient" 
-/> 
+

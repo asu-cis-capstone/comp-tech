@@ -43,8 +43,19 @@ Step 2 (Solution Download):
       - sogeti.got.groceries.Repositories (handles Entity Framework)
 
 Step 3 (Runtime Build):
+ - Update the connection string for the database (See Connection String Example Below)
  - Run the solution in Visual Studio 2015 on local machine
  
 #Instructions For Online Access
  - visit http://capstonegotgroceries.azurewebsites.net/
 
+
+
+
+
+
+#Connection String Example
+<add name="Got Groceries" 
+   connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\GotGroceries.mdf;Integrated Security=True" 
+   providerName="System.Data.SqlClient" 
+/> 

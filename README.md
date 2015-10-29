@@ -3,21 +3,14 @@ Welcome to Got Groceries?
  
  This is the new highly innovated grocery list application called "Got Groceries"
  
--Below is a list of features;
--
--  -Create a grocery list at the store of your choosing
--  -Predict future purchases based on past and favorites
--  -Allow to save favorites, and be notified on when you need make a purchase
-+Below is a list of features:
+ Below is a list of features:
   - Create a grocery list at the store of your choosing
   - Predict future purchases based on past and favorites
   - Allow to save favorites, and be notified on when you need make a purchase
    
 -  Unique feature of this application
--    - Be consistent with the inventory of the store of your choosing
-Unique feature of this application
-- Be consistent with the inventory of the store of your choosing
-     
+    - Be consistent with the inventory of the store of your choosing
+
  #Team Members    
  Brought to you by: 
  - alator20
@@ -48,6 +41,13 @@ Step 3 (Runtime Build):
  
 #Instructions For Online Access
  - visit http://grocerylistapplication.azurewebsites.net/
+
+
+#User Feedback and Contribution Opportunities
+- Interface needs to be smoother and incorporate better color scheme
+- Functionality is good and efficeint
+- Ensure that all buttons and features are work in each prototype
+To contribute in a user study please contact us!
 
 
 

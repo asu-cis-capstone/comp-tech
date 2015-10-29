@@ -1,5 +1,6 @@
 +[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/comp-tech.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/comp-tech)
-Welcome to Got Groceries?
+
+##Welcome to Got Groceries
  
  This is the new highly innovated grocery list application called "Got Groceries"
  

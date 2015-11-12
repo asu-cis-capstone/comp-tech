@@ -1,4 +1,4 @@
-+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/comp-tech.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/comp-tech)
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/comp-tech.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/comp-tech)
 
 ##Welcome to Got Groceries
  
